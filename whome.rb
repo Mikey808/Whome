@@ -4,7 +4,7 @@
 # WhoMe                                #
 # Script to get ip and then do whois   #
 # whome-v2.rb                          # 
-# Auth: Mike Rixford                   #
+# Auth: Mikey808                       #
 #--------------------------------------#
 
 require 'net/http'
